@@ -1,0 +1,1 @@
+V13 adds a local label-alignment editor. Click Adjust labels, drag each map label onto its actual building, Finish adjusting. Positions save in localStorage in the same browser and can be exported as JSON. These placements are NOT independently verified. Map tiles and JS need internet. Faculty office assignments remain unverified.
